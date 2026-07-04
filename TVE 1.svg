@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="149" height="149" version="1.1" viewBox="0 0 39.423 39.423" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(149.49 -66.812)">
+  <path d="m-149.49 66.812v39.423h39.423v-39.423z" fill="#e6e6e6"/>
+  <path d="m-147.64 68.665h35.719v35.719h-35.719z" fill="#0055d4"/>
+  <path d="m-134.14 72.633-3.9688 3.9688v3.4396h3.175v20.373h10.054v-27.781zm.79375 1.8521h6.6146v24.077h-6.35v-20.373h-3.175v-.79375z" fill="#e6e6e6"/>
+ </g>
+</svg>
